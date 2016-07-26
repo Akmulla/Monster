@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 355d54b1bcd3ac64e823e0a145c0d34c
+timeCreated: 1462393189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_walk_cycle_front_0
+    21300002: Hero_walk_cycle_front_1
+    21300004: Hero_walk_cycle_front_2
+    21300006: Hero_walk_cycle_front_3
+    21300008: Hero_walk_cycle_front_4
+    21300010: Hero_walk_cycle_front_5
+    21300012: Hero_walk_cycle_front_6
+    21300014: Hero_walk_cycle_front_7
+    21300016: Hero_walk_cycle_front_8
+    21300018: Hero_walk_cycle_front_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Hero_walk_cycle_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 119}
+        - {x: 6.5, y: 115}
+        - {x: 6.5, y: 104}
+        - {x: 6.5, y: 106}
+        - {x: 2.5, y: 113}
+        - {x: -5.5, y: 119}
+        - {x: -11.5, y: 119}
+        - {x: -29.5, y: 91}
+        - {x: -70.5, y: 26}
+        - {x: -70.5, y: -49}
+        - {x: -52.5, y: -66}
+        - {x: -27.5, y: -49}
+        - {x: -36.5, y: -128}
+        - {x: -27.5, y: -138}
+        - {x: 65.5, y: -138}
+        - {x: 65.5, y: 78}
+        - {x: 17.5, y: 119}
+    - name: Hero_walk_cycle_front_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.800003, y: -104}
+        - {x: 64.8, y: -101}
+        - {x: 64.8, y: 59}
+        - {x: 60.800003, y: 109}
+        - {x: 8.800003, y: 109}
+        - {x: -15.199997, y: 89}
+        - {x: -66.2, y: 24}
+        - {x: -66.2, y: -98}
+        - {x: -53.199997, y: -121}
+        - {x: -18.199997, y: -131}
+        - {x: -8.199997, y: -131}
+        - {x: -4.199997, y: -130}
+        - {x: 1.800003, y: -127}
+        - {x: 8.800003, y: -100}
+    - name: Hero_walk_cycle_front_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.600006, y: 17}
+        - {x: 69.600006, y: 101}
+        - {x: -5.399994, y: 101}
+        - {x: -65.399994, y: 21}
+        - {x: -65.399994, y: -36}
+        - {x: -63.399994, y: -41}
+        - {x: -54.399994, y: -46}
+        - {x: -32.399994, y: -41}
+        - {x: -36.399994, y: -129}
+        - {x: -27.399994, y: -133}
+        - {x: 8.600006, y: -133}
+        - {x: 60.600006, y: -95}
+        - {x: 68.600006, y: -85}
+        - {x: 68.600006, y: 7}
+    - name: Hero_walk_cycle_front_3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.400024, y: 111}
+        - {x: -51.599976, y: 85}
+        - {x: -51.599976, y: -126}
+        - {x: 20.400024, y: -126}
+        - {x: 51.400024, y: -115}
+        - {x: 51.400024, y: 80}
+        - {x: 47.400024, y: 111}
+    - name: Hero_walk_cycle_front_4
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.299988, y: 125}
+        - {x: -53.299988, y: -119}
+        - {x: 48.700012, y: -119}
+        - {x: 66.70001, y: -79}
+        - {x: 66.70001, y: 39}
+        - {x: 35.700012, y: 125}
+    - name: Hero_walk_cycle_front_5
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.5, y: 10}
+        - {x: 67.5, y: 18}
+        - {x: 15.5, y: 92}
+        - {x: -3.5, y: 103}
+        - {x: -9.5, y: 105}
+        - {x: -58.5, y: 105}
+        - {x: -58.5, y: -139}
+        - {x: 26.5, y: -139}
+        - {x: 35.5, y: -116}
+        - {x: 69.5, y: -54}
+        - {x: 70.5, y: -45}
+    - name: Hero_walk_cycle_front_6
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.19995, y: 109}
+        - {x: -53.19995, y: 89}
+        - {x: -55.19995, y: 79}
+        - {x: -60.19995, y: 46}
+        - {x: -60.19995, y: -122}
+        - {x: -41.19995, y: -131}
+        - {x: 29.800049, y: -131}
+        - {x: 37.80005, y: -124}
+        - {x: 66.80005, y: -72}
+        - {x: 66.80005, y: 63}
+        - {x: 45.80005, y: 109}
+    - name: Hero_walk_cycle_front_7
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.400024, y: 130}
+        - {x: -60.400024, y: 39}
+        - {x: -60.400024, y: -34}
+        - {x: -39.400024, y: -29}
+        - {x: -26.400024, y: -23}
+        - {x: -27.400024, y: -15}
+        - {x: -29.400024, y: -13}
+        - {x: -29.400024, y: -10}
+        - {x: -29.400024, y: -12}
+        - {x: -24.400024, y: -17}
+        - {x: -31.400024, y: -42}
+        - {x: -40.400024, y: -43}
+        - {x: -60.400024, y: -75}
+        - {x: -60.400024, y: -100}
+        - {x: -19.400024, y: -139}
+        - {x: 40.599976, y: -139}
+        - {x: 68.599976, y: -84}
+        - {x: 68.599976, y: 79}
+        - {x: 40.599976, y: 130}
+    - name: Hero_walk_cycle_front_8
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.599976, y: 125}
+        - {x: -31.599976, y: 109}
+        - {x: -52.599976, y: 18}
+        - {x: -52.599976, y: -111}
+        - {x: -25.599976, y: -130}
+        - {x: 27.400024, y: -130}
+        - {x: 36.400024, y: -116}
+        - {x: 50.400024, y: -82}
+        - {x: 50.400024, y: 102}
+        - {x: 15.400024, y: 125}
+    - name: Hero_walk_cycle_front_9
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.299927, y: 119}
+        - {x: -66.29993, y: 96}
+        - {x: -66.29993, y: -122}
+        - {x: 51.700073, y: -122}
+        - {x: 51.700073, y: 81}
+        - {x: 36.700073, y: 119}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

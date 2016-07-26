@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 1cfbf63356bf1e148bc9899420a1a2e0
+timeCreated: 1457598453
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monster_victory_0
+    21300002: Monster_victory_4
+    21300004: Monster_victory_5
+    21300006: Monster_victory_6
+    21300008: Monster_victory_7
+    21300010: Monster_victory_8
+    21300012: Monster_victory_9
+    21300014: Monster_victory_10
+    21300016: Monster_victory_11
+    21300018: Monster_victory_12
+    21300020: Monster_victory_13
+    21300022: Monster_victory_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Monster_victory_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 242
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.13333, y: -61.5}
+        - {x: -60.13333, y: -76.5}
+        - {x: -63.13333, y: -79.5}
+        - {x: -63.13333, y: -100.5}
+        - {x: -57.13333, y: -121.5}
+        - {x: -52.13333, y: -123.5}
+        - {x: 1.8666687, y: -123.5}
+        - {x: 1.8666687, y: -109.5}
+        - {x: -25.133331, y: -61.5}
+      - - {x: 36.86667, y: -67.5}
+        - {x: 13.866669, y: -102.5}
+        - {x: 13.866669, y: -123.5}
+        - {x: 65.86667, y: -123.5}
+        - {x: 65.86667, y: -76.5}
+        - {x: 53.86667, y: -67.5}
+    - name: Monster_victory_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 211
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.499985, y: -69.5}
+        - {x: -28.499985, y: -69.5}
+        - {x: -49.499985, y: -75.5}
+        - {x: -56.499985, y: -83.5}
+        - {x: -56.499985, y: -123.5}
+        - {x: -4.4999847, y: -123.5}
+        - {x: -4.4999847, y: -103.5}
+        - {x: -13.499985, y: -73.5}
+      - - {x: 29.500015, y: -80.5}
+        - {x: 21.500015, y: -82.5}
+        - {x: 19.500015, y: -99.5}
+        - {x: 19.500015, y: -123.5}
+        - {x: 56.500015, y: -123.5}
+        - {x: 56.500015, y: -82.5}
+        - {x: 55.500015, y: -80.5}
+    - name: Monster_victory_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 244
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.033325, y: -64.5}
+        - {x: -65.033325, y: -102.5}
+        - {x: -65.033325, y: -123.5}
+        - {x: -10.033325, y: -123.5}
+        - {x: -3.0333252, y: -109.5}
+        - {x: -3.0333252, y: -75.5}
+        - {x: -14.033325, y: -64.5}
+      - - {x: 26.966675, y: -75.5}
+        - {x: 10.966675, y: -96.5}
+        - {x: 10.966675, y: -123.5}
+        - {x: 65.966675, y: -123.5}
+        - {x: 65.966675, y: -100.5}
+        - {x: 53.966675, y: -75.5}
+    - name: Monster_victory_6
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 233
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.033325, y: -42.5}
+        - {x: -62.033325, y: -43.5}
+        - {x: -62.033325, y: -99.5}
+        - {x: -53.033325, y: -124.5}
+        - {x: 51.966675, y: -124.5}
+        - {x: 62.966675, y: -102.5}
+        - {x: 62.966675, y: -42.5}
+    - name: Monster_victory_7
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 253
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.49994, y: 2.5}
+        - {x: -67.49994, y: -5.5}
+        - {x: -67.49994, y: -55.5}
+        - {x: -48.49994, y: -123.5}
+        - {x: 37.50006, y: -123.5}
+        - {x: 67.50006, y: -68.5}
+        - {x: 67.50006, y: 2.5}
+    - name: Monster_victory_8
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 300
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2332764, y: 23.5}
+        - {x: -80.23328, y: 23.5}
+        - {x: -80.23328, y: -43.5}
+        - {x: -33.233276, y: -123.5}
+        - {x: 36.766724, y: -123.5}
+        - {x: 80.76672, y: -27.5}
+        - {x: 80.76672, y: 8.5}
+        - {x: 31.766724, y: 11.5}
+    - name: Monster_victory_9
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 292
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.966553, y: 49.5}
+        - {x: -77.96655, y: 26.5}
+        - {x: -77.96655, y: -5.5}
+        - {x: -28.966553, y: -123.5}
+        - {x: 54.033447, y: -123.5}
+        - {x: 79.03345, y: -16.5}
+        - {x: 79.03345, y: 36.5}
+        - {x: 75.03345, y: 49.5}
+    - name: Monster_victory_10
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 0
+        width: 285
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.966675, y: 57.5}
+        - {x: 65.966675, y: 68.5}
+        - {x: 38.966675, y: 65.5}
+        - {x: 20.966675, y: 50.5}
+        - {x: -15.033325, y: 69.5}
+        - {x: -66.033325, y: 69.5}
+        - {x: -76.033325, y: 44.5}
+        - {x: -76.033325, y: -11.5}
+        - {x: -25.033325, y: -124.5}
+        - {x: 25.966675, y: -124.5}
+        - {x: 76.966675, y: -15.5}
+        - {x: 76.966675, y: 26.5}
+    - name: Monster_victory_11
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 0
+        width: 212
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.466797, y: 82.5}
+        - {x: -8.533203, y: 82.5}
+        - {x: -56.533203, y: 40.5}
+        - {x: -56.533203, y: -57.5}
+        - {x: -37.533203, y: -124.5}
+        - {x: 42.466797, y: -124.5}
+        - {x: 53.466797, y: -117.5}
+        - {x: 57.466797, y: -70.5}
+        - {x: 57.466797, y: 52.5}
+    - name: Monster_victory_12
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 0
+        width: 251
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.2334, y: 46.5}
+        - {x: -26.766602, y: 46.5}
+        - {x: -66.7666, y: 18.5}
+        - {x: -66.7666, y: -109.5}
+        - {x: -60.7666, y: -124.5}
+        - {x: 56.2334, y: -124.5}
+        - {x: 68.2334, y: -67.5}
+        - {x: 68.2334, y: 20.5}
+        - {x: 46.2334, y: 42.5}
+    - name: Monster_victory_13
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 0
+        width: 253
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.2666, y: 11.5}
+        - {x: -67.2666, y: -6.5}
+        - {x: -67.2666, y: -52.5}
+        - {x: -66.2666, y: -63.5}
+        - {x: -61.2666, y: -78.5}
+        - {x: -67.2666, y: -92.5}
+        - {x: -67.2666, y: -121.5}
+        - {x: -65.2666, y: -123.5}
+        - {x: 68.7334, y: -123.5}
+        - {x: 68.7334, y: -33.5}
+        - {x: 45.7334, y: 11.5}
+    - name: Monster_victory_14
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 0
+        width: 212
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.733276, y: -55.5}
+        - {x: -51.733276, y: -70.5}
+        - {x: -56.733276, y: -90.5}
+        - {x: -56.733276, y: -122.5}
+        - {x: 57.266724, y: -122.5}
+        - {x: 57.266724, y: -69.5}
+        - {x: 42.266724, y: -55.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

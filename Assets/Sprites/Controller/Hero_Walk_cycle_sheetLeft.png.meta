@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 24a38677cdebafa498d6935f9acd3f8e
+timeCreated: 1462725053
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_Walk_cycle_sheetLeft_0
+    21300002: Hero_Walk_cycle_sheetLeft_1
+    21300004: Hero_Walk_cycle_sheetLeft_2
+    21300006: Hero_Walk_cycle_sheetLeft_3
+    21300008: Hero_Walk_cycle_sheetLeft_4
+    21300010: Hero_Walk_cycle_sheetLeft_5
+    21300012: Hero_Walk_cycle_sheetLeft_6
+    21300014: Hero_Walk_cycle_sheetLeft_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Hero_Walk_cycle_sheetLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 47.5}
+        - {x: -93, y: -7.5}
+        - {x: -93, y: -113.5}
+        - {x: -83, y: -129.5}
+        - {x: -71, y: -135.5}
+        - {x: 9, y: -172.5}
+        - {x: 65, y: -172.5}
+        - {x: 95, y: -91.5}
+        - {x: 95, y: 29.5}
+        - {x: 66, y: 47.5}
+      - - {x: -27, y: 173.5}
+        - {x: -28, y: 169.5}
+        - {x: -28, y: 41.5}
+        - {x: -27, y: 40.5}
+        - {x: 52, y: 40.5}
+        - {x: 52, y: 150.5}
+        - {x: 39, y: 173.5}
+    - name: Hero_Walk_cycle_sheetLeft_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.759933, y: 36.5}
+        - {x: -51.759933, y: 15.5}
+        - {x: -51.759933, y: -141.5}
+        - {x: -40.759933, y: -168.5}
+        - {x: -6.7599335, y: -168.5}
+        - {x: 15.240067, y: -157.5}
+        - {x: 70.24007, y: -110.5}
+        - {x: 70.24007, y: -28.5}
+        - {x: 53.240067, y: 36.5}
+      - - {x: 10.240067, y: 103.5}
+        - {x: 19.240067, y: 99.5}
+        - {x: 37.240067, y: 96.5}
+        - {x: 47.240067, y: 115.5}
+        - {x: 47.240067, y: 150.5}
+        - {x: 27.240067, y: 173.5}
+        - {x: -4.7599335, y: 173.5}
+        - {x: -34.759933, y: 153.5}
+        - {x: -34.759933, y: 34.5}
+        - {x: 28.240067, y: 34.5}
+        - {x: 47.240067, y: 73.5}
+        - {x: 47.240067, y: 79.5}
+        - {x: 19.240067, y: 99.5}
+    - name: Hero_Walk_cycle_sheetLeft_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.980133, y: 172.5}
+        - {x: -11.019867, y: 161.5}
+        - {x: -34.019867, y: 145.5}
+        - {x: -69.01987, y: -4.5}
+        - {x: -89.01987, y: -106.5}
+        - {x: -89.01987, y: -161.5}
+        - {x: -81.01987, y: -168.5}
+        - {x: -2.019867, y: -168.5}
+        - {x: 112.98013, y: -124.5}
+        - {x: 115.98013, y: -118.5}
+        - {x: 115.98013, y: -80.5}
+        - {x: 73.98013, y: 172.5}
+    - name: Hero_Walk_cycle_sheetLeft_3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.220215, y: 37.5}
+        - {x: 47.220215, y: 52.5}
+        - {x: 23.220215, y: 46.5}
+        - {x: 8.220215, y: 46.5}
+        - {x: 18.220215, y: 46.5}
+        - {x: 47.220215, y: 53.5}
+        - {x: 101.220215, y: 149.5}
+        - {x: 80.220215, y: 169.5}
+        - {x: 25.220215, y: 169.5}
+        - {x: -20.779785, y: 149.5}
+        - {x: -66.779785, y: 16.5}
+        - {x: -46.779785, y: 0.5}
+        - {x: -43.779785, y: 0.5}
+        - {x: -17.779785, y: -13.5}
+        - {x: -92.779785, y: -29.5}
+        - {x: -127.779785, y: -68.5}
+        - {x: -127.779785, y: -100.5}
+        - {x: -112.779785, y: -128.5}
+        - {x: -37.779785, y: -139.5}
+        - {x: 101.220215, y: -139.5}
+        - {x: 128.22021, y: -108.5}
+        - {x: 128.22021, y: -67.5}
+        - {x: 101.220215, y: -59.5}
+    - name: Hero_Walk_cycle_sheetLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.460266, y: 129.5}
+        - {x: 107.460266, y: 143.5}
+        - {x: 91.460266, y: 147.5}
+        - {x: 88.460266, y: 148.5}
+        - {x: -6.539734, y: 148.5}
+        - {x: -87.539734, y: 33.5}
+        - {x: -87.539734, y: -142.5}
+        - {x: -52.539734, y: -169.5}
+        - {x: 48.460266, y: -169.5}
+        - {x: 62.460266, y: -142.5}
+        - {x: 59.460266, y: -130.5}
+        - {x: 117.460266, y: 101.5}
+      - - {x: -127.539734, y: -94.5}
+        - {x: -124.539734, y: -93.5}
+        - {x: -124.539734, y: -88.5}
+        - {x: -126.539734, y: -86.5}
+        - {x: -127.539734, y: -86.5}
+    - name: Hero_Walk_cycle_sheetLeft_5
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.799683, y: 35.5}
+        - {x: -47.799683, y: 29.5}
+        - {x: -50.799683, y: 23.5}
+        - {x: -50.799683, y: -173.5}
+        - {x: 1.2003174, y: -173.5}
+        - {x: 60.200317, y: -138.5}
+        - {x: 60.200317, y: 4.5}
+        - {x: 53.200317, y: 35.5}
+      - - {x: 18.200317, y: 143.5}
+        - {x: -13.799683, y: 97.5}
+        - {x: -13.799683, y: 34.5}
+        - {x: 60.200317, y: 34.5}
+        - {x: 108.20032, y: 43.5}
+        - {x: 108.20032, y: 143.5}
+    - name: Hero_Walk_cycle_sheetLeft_6
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.05957, y: 47.5}
+        - {x: -76.05957, y: 10.5}
+        - {x: -86.05957, y: -55.5}
+        - {x: -86.05957, y: -162.5}
+        - {x: -81.05957, y: -170.5}
+        - {x: -17.05957, y: -170.5}
+        - {x: 111.94043, y: -142.5}
+        - {x: 111.94043, y: 28.5}
+        - {x: 60.94043, y: 47.5}
+      - - {x: 24.94043, y: 154.5}
+        - {x: -19.05957, y: 134.5}
+        - {x: -19.05957, y: 40.5}
+        - {x: 52.94043, y: 40.5}
+        - {x: 88.94043, y: 97.5}
+        - {x: 88.94043, y: 154.5}
+    - name: Hero_Walk_cycle_sheetLeft_7
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 0
+        width: 482
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.18054, y: -54.5}
+        - {x: 41.180542, y: -74.5}
+        - {x: 37.180542, y: -41.5}
+        - {x: 50.180542, y: -55.5}
+        - {x: 77.18054, y: -60.5}
+        - {x: 99.18054, y: -38.5}
+        - {x: 128.18054, y: -6.5}
+        - {x: 128.18054, y: 19.5}
+        - {x: 64.18054, y: 74.5}
+        - {x: 40.180542, y: 74.5}
+        - {x: -15.819458, y: 42.5}
+        - {x: -21.819458, y: 36.5}
+        - {x: -21.819458, y: 35.5}
+        - {x: -23.819458, y: 34.5}
+        - {x: -21.819458, y: 36.5}
+        - {x: -21.819458, y: 37.5}
+        - {x: -19.819458, y: 39.5}
+        - {x: -16.819458, y: 45.5}
+        - {x: -16.819458, y: 74.5}
+        - {x: -60.819458, y: 74.5}
+        - {x: -125.81946, y: 6.5}
+        - {x: -125.81946, y: -113.5}
+        - {x: -105.81946, y: -131.5}
+        - {x: -62.819458, y: -138.5}
+        - {x: 81.18054, y: -138.5}
+        - {x: 128.18054, y: -112.5}
+        - {x: 128.18054, y: -86.5}
+        - {x: 108.18054, y: -58.5}
+      - - {x: -7.819458, y: 114.5}
+        - {x: -21.819458, y: 91.5}
+        - {x: -21.819458, y: 56.5}
+        - {x: -14.819458, y: 46.5}
+        - {x: 45.180542, y: 46.5}
+        - {x: 47.180542, y: 50.5}
+        - {x: 47.180542, y: 102.5}
+        - {x: 40.180542, y: 114.5}
+      - - {x: 28.180542, y: 173.5}
+        - {x: 19.180542, y: 171.5}
+        - {x: -1.819458, y: 150.5}
+        - {x: -1.819458, y: 130.5}
+        - {x: 7.180542, y: 115.5}
+        - {x: 39.180542, y: 106.5}
+        - {x: 70.18054, y: 106.5}
+        - {x: 82.18054, y: 117.5}
+        - {x: 82.18054, y: 150.5}
+        - {x: 70.18054, y: 173.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
