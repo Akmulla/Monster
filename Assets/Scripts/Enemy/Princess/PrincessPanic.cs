@@ -19,9 +19,9 @@ public class PrincessPanic : MonoBehaviour
 		if (rb.velocity.magnitude >= 0.2f) {
 			anim.SetBool ("Panic", true);
 		} 
-		else 
-		{
-			anim.SetBool ("Panic", false);
-		}
+		//else 
+		//{
+		//	anim.SetBool ("Panic", false);
+		//}
 	}
 }

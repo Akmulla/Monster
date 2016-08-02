@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7C0A03D8-9193-00BE-3CFF-53361A9EC0C1}</ProjectGuid>
+    <ProjectGuid>{1C11C6DA-852B-2641-E977-879566251C06}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,8 +69,6 @@
      <Compile Include="Assets\Scripts\Boss\IncreaseSpeedByTime.cs" />
      <Compile Include="Assets\Scripts\Boss\RageBarDisplay.cs" />
      <Compile Include="Assets\Scripts\Boss\VerticalMove.cs" />
-     <Compile Include="Assets\Scripts\Controller\2\ControllerMove2.cs" />
-     <Compile Include="Assets\Scripts\Controller\2\ControllerReaction2.cs" />
      <Compile Include="Assets\Scripts\Controller\ControllerMove.cs" />
      <Compile Include="Assets\Scripts\Controller\ControllerReaction.cs" />
      <Compile Include="Assets\Scripts\Controller\ControllerVerticalMove.cs" />
@@ -94,6 +92,7 @@
      <Compile Include="Assets\Scripts\System\Pool.cs" />
      <Compile Include="Assets\Scripts\System\PoolManager.cs" />
      <Compile Include="Assets\Scripts\System\SpawnWaves.cs" />
+     <Compile Include="Assets\Scripts\ToPoolOnExit.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

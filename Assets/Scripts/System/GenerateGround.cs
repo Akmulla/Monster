@@ -9,10 +9,12 @@ public class GenerateGround : MonoBehaviour
 	float leftEdge;
 	float spriteHeight;
 	float spriteWidth;
+	Pool pool;
 
 	// Use this for initialization
 	void Start () 
 	{
+		pool = GetComponentInChildren<Pool> ();
 		spriteHeight = sprites [0].bounds.size.y * transform.localScale.y;
 		spriteWidth = sprites [0].bounds.size.y * transform.localScale.x;
 		botEdge = Edges.botEdge;
@@ -34,7 +36,8 @@ public class GenerateGround : MonoBehaviour
 			leftEdge = Edges.leftEdge;
 			while (leftEdge <= Edges.rightEdge+spriteWidth)
 			{
-				GameObject obj = (GameObject)Instantiate (tile, new Vector2 (leftEdge, botEdge), Quaternion.identity);
+				//GameObject obj = (GameObject)Instantiate (tile, new Vector2 (leftEdge, botEdge), Quaternion.identity);
+				GameObject obj=pool.Activate(new Vector2 (leftEdge, botEdge), Quaternion.identity);
 				obj.GetComponent<SpriteRenderer> ().sprite = sprites [Random.Range (0, sprites.Length)];
 				leftEdge += spriteWidth;
 			}
